@@ -1,0 +1,1 @@
+# Elliptica-lTruncated-Cone-Qt
